@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jainparveen16
 - 👀 I’m interested in to understand and learn anythng new
-- 🌱 I’m currently learning quantom computing with AI/ML
 - 💞️ I’m looking to collaborate on solving problem and helping others
-- 📫 How to reach me ...
+- 📫 How to reach me : <a href="www.linkedin.com/in/jainparveen">linkedin</a>
 
 <h1>Welcome to thesaurus</h1>
 <a>1. </a><a href="https://github.com/jainparveen16/thesaurus/blob/main/system_design">System Design</a><br>
