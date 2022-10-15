@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on solving problem and helping others
 - 📫 How to reach me ...
 
-Explore
-System Design: https://github.com/jainparveen16/thesaurus/blob/main/system_design
+<h1>Welcome to thesaurus</h1>
+<a>1. </a><a href="https://github.com/jainparveen16/thesaurus/blob/main/system_design">System Design</a><br>
+<a>2. </a><a href="https://github.com/jainparveen16/thesaurus/blob/main/AIML_DataScience">AIML / Data Science</a><br>
 
 
 <!---
