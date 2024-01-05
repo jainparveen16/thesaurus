@@ -2,6 +2,8 @@
 - 👀 I’m interested in to understand and learn anythng new
 - 💞️ I’m looking to collaborate on solving problem and helping others
 - 📫 How to reach me : <a href="www.linkedin.com/in/jainparveen">linkedin</a>
+- all other project, please visit- https://github.com/jainparveen16
+
 
 <h1>Welcome to thesaurus</h1>
 <a>1. </a><a href="https://github.com/jainparveen16/thesaurus/blob/main/system_design">System Design</a><br>
